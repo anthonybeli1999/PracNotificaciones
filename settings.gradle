@@ -1,0 +1,2 @@
+rootProject.name='PracNotificaciones'
+include ':app'
